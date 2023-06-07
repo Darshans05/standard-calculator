@@ -29,7 +29,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
+```html css javascript
 <!DOCTYPE html>
 <html lang="en">
 <head>
